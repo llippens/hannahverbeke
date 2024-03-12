@@ -6,7 +6,7 @@ menu:
   main:
     weight: 2
     identifier: About
-    title: 'Hannah Verbeke | About'
+    title: 'About'
 unifiedAlt: ''
 _build:
   publishResources: false

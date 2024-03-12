@@ -6,7 +6,7 @@ menu:
   main:
     weight: 1
     identifier: Portfolio
-    title: 'Hannah Verbeke | Portfolio'
+    title: 'Portfolio'
 unifiedAlt: '© Hannah Verbeke'
 _build:
   publishResources: false
