@@ -1,7 +1,7 @@
 # timeout
 timeout = "600s"
 # your website url
-baseURL = '/'
+baseURL = 'https://hannahverbeke.netlify.app'
 # website title
 title = 'Hannah Verbeke'
 # don't touch this
