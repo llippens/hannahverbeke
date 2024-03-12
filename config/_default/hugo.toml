@@ -23,6 +23,7 @@ defaultContentLanguage = 'en'
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 
 # theme as module
+[module]
 [[module.imports]]
 path = "github.com/Sped0n/bridget" # deploy with git (recommended)  WARN: you should also set `bundled` to true in params.toml !!!
 
