@@ -1,7 +1,7 @@
 ---
 type: _default
 layout: single
-url: /portfolio/
+url: /
 menu:
   main:
     weight: 1
