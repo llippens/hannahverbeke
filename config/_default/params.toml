@@ -1,6 +1,11 @@
 # description of the site (will be placed in meta)
 description = "Hannah Verbeke"
 
+# use bundled js and css
+# * if you want to build the js and css from scratch, set this to false and run `npm install` and `npm run build`
+# * tldr: set this to false if you want to develop and edit the js and css
+bundled = true
+
 # whether to use favicon resource links
 # generate these with https://realfavicongenerator.net
 favicon = true
@@ -66,6 +71,3 @@ No_cookie = true
 Do_not_track = true
 # token(optional), more info on https://splitbee.io/docs/embed-the-script
 data_token = ""
-
-[params]
-bundled = true
