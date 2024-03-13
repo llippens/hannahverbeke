@@ -15,13 +15,13 @@ svgFavicon = "/favicon.ico"
 svgFaviconFallback = "/android-chrome-192x192.png"
 
 # resize options for dynamic resolution, please refer to https://gohugo.io/content-management/image-processing/#image-processing-options
-loResOpt = "800x webp Lanczos q60"
+loResOpt = "1000x webp Lanczos q60"
 hiResOpt = "2500x webp Lanczos q75"
 
 # page config
 [page]
 # unified alt text for all images in the page
-unifiedAlt = ''
+unifiedAlt = "\u00A9 Hannah Verbeke" # make sure to use double quotes to ensure the escape sequence is interpreted correctly
 
 # Site verification code for Google/Bing/Yandex/Pinterest/Baidu
 [verification]
@@ -41,33 +41,6 @@ enable = true
 id = ""
 # whether to anonymize IP
 anonymizeIP = true
-# Fathom Analytics
-[analytics.fathom]
-id = ""
-# server url for your tracker if you're self hosting
-server = ""
-# Baidu Analytics
-[analytics.baidu]
-id = ""
-# Umami Analytics
-[analytics.umami]
-data_website_id = "44a4a42d-ec8e-44c9-a38c-7533929e9845"
-src = "https://umami.sped0nwen.com/script.js"
-data_host_url = ""
-data_domains = "bridget-demo.sped0nwen.com"
-# Plausible Analytics
-[analytics.plausible]
-data_domain = ""
-src = ""
 # Cloudflare Analytics
 [analytics.cloudflare]
 token = ""
-# Splitbee Analytics
-[analytics.splitbee]
-enable = false
-# no cookie mode
-No_cookie = true
-# respect the do not track setting of the browser
-Do_not_track = true
-# token(optional), more info on https://splitbee.io/docs/embed-the-script
-data_token = ""
