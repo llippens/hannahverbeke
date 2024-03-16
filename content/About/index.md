@@ -18,7 +18,7 @@ Hello, world!
 
 *Italic*
 
-![Luigi](static/luigi.JPG)
+![Luigi](../static/luigi.JPG)
 
 [Instagram ↗](https://www.instagram.com/hannahverbeke/)
 
