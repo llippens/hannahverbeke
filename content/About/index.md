@@ -14,11 +14,7 @@ _build:
 
 Hello, world!
 
-**Bold**
-
-*Italic*
-
-![Luigi](../static/luigi.JPG)
+![test](https://static.dreamland.be/wcsstore/ColruytB2CCAS/JPG/JPG/646x1000/std.lang.all/43/42/asset-3174342.jpg)
 
 [Instagram ↗](https://www.instagram.com/hannahverbeke/)
 
