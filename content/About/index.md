@@ -1,7 +1,7 @@
 ---
 type: _default
 layout: single
-url: /about/
+url: /
 menu:
   main:
     weight: 2
